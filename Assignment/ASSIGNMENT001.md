@@ -15,7 +15,7 @@ This README provides a step-by-step guide on how to annotate an image by adding 
     - A little dark transparent box is drawn behind the text to simulate a background with adjustable transparency.
     - The text is centered within the transparent box and drawn in green color.
 
-## Code Explanation with comments ( [annotate_img.py](draw_rectangle_assignment.py))
+## Code Explanation with comments ( [annotate_img.py](annotate_img.py))
     
 ```python
 import cv2  # Import OpenCV library
