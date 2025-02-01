@@ -30,6 +30,7 @@ plt.imshow(image)
 plt.title("Cropped & Upscaled Barcode")
 plt.show()
 
+
 # Try decoding using PDF417Decoder
 print("Trying PDF417Decoder...")
 decoder = PDF417Decoder(image)

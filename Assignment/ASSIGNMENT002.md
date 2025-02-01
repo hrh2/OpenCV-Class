@@ -15,6 +15,7 @@ Ensure you have Python installed, then install the dependencies:
 pip install matplotlib pillow opencv-python pyzbar pdf417decoder
 ```
 
+
 ## 📂 Usage
 1. **Place your barcode image** in `../data/IMG_1903 2.jpg`
 2. **Run the script:**
