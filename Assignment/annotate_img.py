@@ -48,7 +48,7 @@ cv2.imshow('Image', image)
 cv2.waitKey(0)
 
 # Save the updated image to a new file
-cv2.imwrite('myResults.jpg', image)
+cv2.imwrite('results/myResults.jpg', image)
 
 # Close all OpenCV windows to release resources
 cv2.destroyAllWindows()
