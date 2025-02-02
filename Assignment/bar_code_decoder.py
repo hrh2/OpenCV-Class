@@ -26,7 +26,7 @@ cv2.imshow("Barcode with Annotation", image)
 key = cv2.waitKey(0)
 
 # Save the annotated image when a key is pressed
-output_file = "decoded_barcode.png"
+output_file = "results/decoded_barcode.png"
 cv2.imwrite(output_file, image)
 print(f"Annotated image saved as {output_file}")
 
